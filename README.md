@@ -1,0 +1,1 @@
+I learn function here and to not let myself fall to tutorial hell i saw this mini project and did without AI and any guide from yt tutorials, while learning js I also trying to learn git and github hence uploading my progress
