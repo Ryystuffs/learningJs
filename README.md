@@ -1,1 +1,1 @@
-I learn function here and to not let myself fall to tutorial hell i saw this mini project and did without AI and any guide from yt tutorials, while learning js I also trying to learn git and github hence uploading my progress
+This is where I will document all my javascript learning this summer, I will not rely on AI and the reason for uploading it into github is to let myself be familiarize with git and github and also to not let myself fall to tutorial hell. 
