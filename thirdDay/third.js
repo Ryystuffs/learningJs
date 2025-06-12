@@ -39,4 +39,27 @@ const total = product1.calculateTotal(salesTax);
 console.log(`Total price (with tax): ${total}`);
 */
 
- 
+
+
+
+class User {
+    static userCount = 0;
+    static userArray = [];
+    constructor(username){
+        this.username = username;
+        User.userCount++;
+        User.userArray.push(this.username);
+    }
+    
+}
+
+const user1 = new User("ryan");
+const user2 = new User("Pol");
+
+console.log(User.userArray);
+console.log(`I'm the no. ${User.userArray.indexOf(user2.username) + 1} registed user`)
+
+
+
+
+
